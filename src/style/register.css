@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+  
+  .mainDiv{
+  background-color: #a6a6a6;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 24px;
+}
+
+.registerForm{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
